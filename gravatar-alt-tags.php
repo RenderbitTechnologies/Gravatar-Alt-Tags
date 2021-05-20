@@ -3,7 +3,7 @@
 * Plugin Name: Gravatar Alt Tags
 * Plugin URI:  https://github.com/RenderbitTechnologies/Gravatar-Alt-Tags
 * Description: WordPress plugin to add alt & title tags to Gravatar images
-* Version:     1.0.0
+* Version:     1.0.1
 * Author:      Renderbit Technologies
 * Author URI:  https://renderbit.com
 * License:     GPLv2
